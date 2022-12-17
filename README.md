@@ -19,6 +19,7 @@ A Chip-8 emulator consists of several key components, including a CPU, a memory 
 * Implement the input system. Chip-8 has a simple input system that uses a hexadecimal keypad for input. You'll need to write code to handle input from the keypad and map it to the appropriate actions in your emulator.
 
 
-Study
+### Study
+
 https://code.austinmorlan.com/austin/2019-chip8-emulator/src/branch/master/Source/Chip8.hpp
 https://github.com/ryuichiokubo/Shogi/tree/master/war
