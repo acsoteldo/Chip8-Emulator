@@ -4,6 +4,7 @@ One key difference between Shogi and Western chess is that captured pieces can b
 Another difference is that Shogi pieces are inscribed with kanji characters, which represent their movements and powers. This makes it easy for players to quickly identify the strengths and abilities of each piece on the board.
 Shogi is a popular board game in Japan and is enjoyed by players of all ages. It is considered to be a strategic and challenging game that requires a combination of skill, strategy, and tactics to master. 
 
+A Chip-8 emulator consists of several key components, including a CPU, a memory system, a graphics system, and an input system. 
 
 * Implement the CPU. The CPU is responsible for executing Chip-8 instructions, so this is an important part of the emulator. You'll need to write code to fetch and decode instructions, and then execute them.
 
