@@ -20,14 +20,19 @@ A Chip-8 emulator consists of several key components, including a CPU, a memory 
 
 Each player has the following pieces:
 
-1 King (K)
-1 Rook (R)
-1 Bishop (B)
-2 Gold Generals (G)
-2 Silver Generals (S)
-2 Knights (N)
-2 Lances (L)
-9 Pawns (P)
+* 1 King (K)
+* 1 Rook (R)
+* 1 Bishop (B)
+* 2 Gold Generals (G)
+* 2 Silver Generals (S)
+* 2 Knights (N)
+* 2 Lances (L)
+* 9 Pawns (P)
+
+![Screenshot 2024-04-01 at 9 17 41 AM](https://github.com/acsoteldo/Chip8-Emulator/assets/76544489/b902d980-5ae2-4c25-aadc-798a774f964a)
+
+![Screenshot 2024-04-01 at 9 17 54 AM](https://github.com/acsoteldo/Chip8-Emulator/assets/76544489/e879ea7d-6667-43c2-95ae-d1597d7a841d)
+
 
 ### Study
 
