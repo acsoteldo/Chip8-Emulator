@@ -18,6 +18,16 @@ A Chip-8 emulator consists of several key components, including a CPU, a memory 
 
 * Implement the input system. Chip-8 has a simple input system that uses a hexadecimal keypad for input. You'll need to write code to handle input from the keypad and map it to the appropriate actions in your emulator.
 
+Each player has the following pieces:
+
+1 King (K)
+1 Rook (R)
+1 Bishop (B)
+2 Gold Generals (G)
+2 Silver Generals (S)
+2 Knights (N)
+2 Lances (L)
+9 Pawns (P)
 
 ### Study
 
